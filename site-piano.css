@@ -1,0 +1,31 @@
+.des{
+    width: 100%;
+    position: absolute;
+
+}
+.bg-light {
+    background-color: lightblue!important;
+}
+.carousel-item{
+    height: 400px;
+}
+.carousel-item img{
+    height: 400px;
+}
+.products{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
+.card img{
+    height: 200px;
+}
+
+.boutonet{
+    display: flex;
+    justify-content: space-around;
+}
+
+.boutonet p{
+    margin: 0 3%;
+}
